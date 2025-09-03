@@ -1,0 +1,3 @@
+app:
+  name: "My Awesome App"
+  shared-setting: "This is a global value."

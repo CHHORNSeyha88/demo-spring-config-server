@@ -1,4 +1,4 @@
 app:
-  message: "Welcome to the PRODUCTION environment."
+  message: "Welcome to the PRODUCTION environment HRD."
 db:
   url: "jdbc:postgresql://prod-db/main"
